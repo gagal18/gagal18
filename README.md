@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**gagal18/gagal18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Bojan Gagaleski</h1>
+<h3 align="center">A 19 year old developer from Struga</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=gagal18&count_private=true&include_all_commits=true&theme=onedark" alt="gagal18" />
+<img height="170" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagal18&layout=compact&theme=onedark&langs_count=15" />
+<img height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img height="30" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</div>
+<br/>
+
