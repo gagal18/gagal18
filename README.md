@@ -1,17 +1,18 @@
-
-
 <h1 align="center">Hi 👋, I'm Bojan Gagaleski</h1>
 
+<p align="center">Software Engineer at Banzae | Studying Computer Science at FCSE Skopje</p>
 
-<div>
-</div>
-<div>
-<img height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img height="30" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
-<img height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<p>I like to build scrappers, web-applications and mobile apps</p>
+<p>Currently, spending most time to become better at Docker and AWS</p>
 
-<img height="30" src="https://www.codewars.com/users/gagal18/badges/large" />
-</div>
-<br/>
+### Used for work
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,nest,docker,react,postgres,mongo,tailwind,css&theme=dark&perline=5)](https://skillicons.dev)
 
+### Used for uni
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c&theme=dark&perline=5)](https://skillicons.dev)
+
+### Tools I Like to use
+[![My Skills](https://skillicons.dev/icons?i=figma,github,gitlab,bash,git&theme=dark&perline=5)](https://skillicons.dev)
+
+### Improving my skills at
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,arduino,python&theme=dark&perline=5)](https://skillicons.dev)
