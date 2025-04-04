@@ -15,4 +15,4 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,github,gitlab,bash,git&theme=dark&perline=5)](https://skillicons.dev)
 
 ### Improving my skills at
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,arduino,python&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,linux,aws,arduino,python&theme=dark&perline=5)](https://skillicons.dev)
